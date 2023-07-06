@@ -1,0 +1,17 @@
+C:\Users\jean-\Documents\Projetos\CalcProject\CalcProject\bin\Debug\net6.0-windows\CalcProject.exe
+C:\Users\jean-\Documents\Projetos\CalcProject\CalcProject\bin\Debug\net6.0-windows\CalcProject.deps.json
+C:\Users\jean-\Documents\Projetos\CalcProject\CalcProject\bin\Debug\net6.0-windows\CalcProject.runtimeconfig.json
+C:\Users\jean-\Documents\Projetos\CalcProject\CalcProject\bin\Debug\net6.0-windows\CalcProject.dll
+C:\Users\jean-\Documents\Projetos\CalcProject\CalcProject\bin\Debug\net6.0-windows\CalcProject.pdb
+C:\Users\jean-\Documents\Projetos\CalcProject\CalcProject\obj\Debug\net6.0-windows\CalcProject.csproj.AssemblyReference.cache
+C:\Users\jean-\Documents\Projetos\CalcProject\CalcProject\obj\Debug\net6.0-windows\CalcProject.Form1.resources
+C:\Users\jean-\Documents\Projetos\CalcProject\CalcProject\obj\Debug\net6.0-windows\CalcProject.csproj.GenerateResource.cache
+C:\Users\jean-\Documents\Projetos\CalcProject\CalcProject\obj\Debug\net6.0-windows\CalcProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jean-\Documents\Projetos\CalcProject\CalcProject\obj\Debug\net6.0-windows\CalcProject.AssemblyInfoInputs.cache
+C:\Users\jean-\Documents\Projetos\CalcProject\CalcProject\obj\Debug\net6.0-windows\CalcProject.AssemblyInfo.cs
+C:\Users\jean-\Documents\Projetos\CalcProject\CalcProject\obj\Debug\net6.0-windows\CalcProject.csproj.CoreCompileInputs.cache
+C:\Users\jean-\Documents\Projetos\CalcProject\CalcProject\obj\Debug\net6.0-windows\CalcProject.dll
+C:\Users\jean-\Documents\Projetos\CalcProject\CalcProject\obj\Debug\net6.0-windows\refint\CalcProject.dll
+C:\Users\jean-\Documents\Projetos\CalcProject\CalcProject\obj\Debug\net6.0-windows\CalcProject.pdb
+C:\Users\jean-\Documents\Projetos\CalcProject\CalcProject\obj\Debug\net6.0-windows\CalcProject.genruntimeconfig.cache
+C:\Users\jean-\Documents\Projetos\CalcProject\CalcProject\obj\Debug\net6.0-windows\ref\CalcProject.dll
